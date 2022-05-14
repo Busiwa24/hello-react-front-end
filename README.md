@@ -1,12 +1,10 @@
-![](https://img.shields.io/badge/Chimwemwe--127001-blueviolet)
-
 # Hello React Front End app
 
 > Hello React Front End app is simple application that contains setup of react application. The greeting page loads a random greeting from API on every page load.
 
 ## Link to the back end
 
-[Hello Rails back end](https://github.com/Chimwemwe-127001/hello-rails-back-end)
+[Hello Rails back end](https://github.com/Busiwa24/hello-rails-back-end)
 
 ## Built With
 
@@ -35,7 +33,7 @@ To get a local copy up and running follow these simple example steps.
 - Clone the project
 
 ```sh
-git clone https://github.com/Chimwemwe-127001/hello-react-front-end
+git clone https://github.com/Busiwa24/hello-react-front-end
 
 cd hello-react-front-end
 ```
@@ -54,17 +52,17 @@ npm start
 ```
 ## Author
 
-👤 **Chimwemwe Sinyinza**
+👤 **Busiwa Liuma**
 
-- GitHub: [@githubhandle](https://github.com/Chimwemwe-127001)
-- Twitter: [@twitterhandle](https://twitter.com/chimwewme)
+- GitHub: [@githubhandle](https://github.com/Busiwa24)
+- Twitter: [@twitterhandle](ontentwritingjobs.com)
 
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Chimwemwe-127001/hello-react-front-end/issues).
+Feel free to check the [issues page](https://github.com/Busiwa24/hello-react-front-end/issues).
 
 ## Show your support
 
